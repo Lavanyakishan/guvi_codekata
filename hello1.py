@@ -1,5 +1,5 @@
 def main():
-    n=int(raw_input())
-    for main in range(0,n):
+    N=int(raw_input())
+    for hello in range(0,N):
        print("hello")
 main()
