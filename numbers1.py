@@ -7,5 +7,5 @@ def main():
     elif(x<0):
         print("negative")
     else:
-	    print("invalid")
+        print("invalid")
 main()
